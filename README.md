@@ -41,7 +41,7 @@ The app only uses the Python standard library (`datetime`), so there is nothing 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/<IkOkeke2>/<QuickBasket-Checkout-App>.git
 cd <your-repo-name>
 
 # 2. (Optional) install Jupyter if you don't have it
